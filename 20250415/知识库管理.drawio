@@ -1,0 +1,111 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
+  <diagram name="第 1 页" id="ieAdP3k7JUaOvduGhFFJ">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Admin_Functions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="231" y="566" width="209" height="358" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="User_Functions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="221" y="135" width="385" height="358" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="系统技术支持板块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="276" y="8" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="知识库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="316" y="414" width="108" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="问题和意见" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="422" y="160" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="用户发表的问题和意见" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="475" y="591" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="管理界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="278" y="591" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="知识库建设和维护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="718" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="数据更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="281" y="845" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="用户反馈数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="414" y="287" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="接入" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0.16;entryY=0;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="99" />
+              <mxPoint x="285" y="378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="用户反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="4" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="492" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="搜索" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=0;" edge="1" parent="1" source="5" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="493" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="管理" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.33;entryY=0;" edge="1" parent="1" source="5" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="493" />
+              <mxPoint x="300" y="566" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="管理员操作" style="curved=1;startArrow=none;endArrow=block;exitX=0.4;exitY=1;entryX=0.97;entryY=0;" edge="1" parent="1" source="8" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="311" y="682" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="功能" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.35;entryY=0;" edge="1" parent="1" source="9" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="809" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="用户提交" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="6" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="存储" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.98;entryY=0;" edge="1" parent="1" source="11" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="492" y="378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="访问" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=0;entryX=0.5;entryY=1;" edge="1" parent="1" source="8" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="566" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" value="更新" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=1;entryX=0.6;entryY=0;" edge="1" parent="1" source="8" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="373" y="682" />
+              <mxPoint x="373" y="809" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
