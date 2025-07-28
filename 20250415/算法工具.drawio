@@ -1,0 +1,270 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
+  <diagram name="第 1 页" id="feK9M0waNTDtp_4nhilk">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="分词工具" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="617" y="8" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="依据词频" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="135" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="邻字信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="182" y="135" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="信息熵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="356" y="135" width="108" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="分词规范不明" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="514" y="135" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="歧义" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="720" y="135" width="92" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="分词特征指标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="862" y="135" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="自动分词" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1068" y="135" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="人工核对校正" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1242" y="135" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="相似度工具" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2011" y="8" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="分词算法工具" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1448" y="135" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="词嵌入算法工具" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="135" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="标注的训练语料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1876" y="135" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="自动求解相似度阈值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2098" y="135" width="204" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="同近义词" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2352" y="135" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="非同近义词" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2526" y="135" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="词嵌入工具" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3335" y="8" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="分词算法工具" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2716" y="135" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="大规模训练语料分词结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2922" y="135" width="236" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="词特征向量自学习" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3208" y="135" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="映射关系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3446" y="135" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="中文词到词特征向量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3620" y="135" width="204" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="基础性算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3874" y="135" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="图算法工具" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4532" y="8" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="图的图节点和边" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4064" y="135" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="求解最大权重路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4286" y="135" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="求解最短路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4524" y="135" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="知识图谱检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4730" y="135" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="知识推理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4936" y="135" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="支持" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" value="支持" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33" value="支持" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" value="解决" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="592" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35" value="解决" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="766" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36" value="依据用户设定" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37" value="对大规模训练语料" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.66;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38" value="支持" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39" value="结合" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=0;" edge="1" parent="1" source="11" target="12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1526" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40" value="结合" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=0;" edge="1" parent="1" source="11" target="13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41" value="基于" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="11" target="14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1962" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42" value="支持" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="11" target="15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2200" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43" value="判定" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0;" edge="1" parent="1" source="11" target="16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2414" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44" value="判定" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.66;entryX=0.5;entryY=0;" edge="1" parent="1" source="11" target="17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2596" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="45" value="结合" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=0;" edge="1" parent="1" source="18" target="19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2794" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46" value="支持" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;" edge="1" parent="1" source="18" target="20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3040" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="47" value="实现" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="18" target="21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3302" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48" value="寻求" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="18" target="22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3508" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="49" value="转换" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=0;" edge="1" parent="1" source="18" target="23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3722" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="50" value="提供" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0;" edge="1" parent="1" source="18" target="24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3944" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="51" value="基于" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0;" edge="1" parent="1" source="25" target="26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4150" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52" value="支持" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0.5;entryY=0;" edge="1" parent="1" source="25" target="27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4380" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53" value="支持" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="25" target="28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54" value="提供" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0.5;entryY=0;" edge="1" parent="1" source="25" target="29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4808" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55" value="提供" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=0;" edge="1" parent="1" source="25" target="30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4998" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
